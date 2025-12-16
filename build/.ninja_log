@@ -1,0 +1,13 @@
+# ninja log v7
+2	44	7875663424574909	bin/boot.bin	83d8b4da35ab02b2
+2	44	7875663424574909	D:/MyData/Code/my-project/MyOS/build/bin/boot.bin	83d8b4da35ab02b2
+10	54	7875663424667151	bin/kernel.bin	ea8897048b4f523b
+10	54	7875663424667151	D:/MyData/Code/my-project/MyOS/build/bin/kernel.bin	ea8897048b4f523b
+21	61	7875663424712569	bin/loader.bin	90b0e922e7c76024
+21	61	7875663424712569	D:/MyData/Code/my-project/MyOS/build/bin/loader.bin	90b0e922e7c76024
+61	252	7875663426643364	bin/os.img	1d7df1af7a93562c
+61	252	7875663426643364	D:/MyData/Code/my-project/MyOS/build/bin/os.img	1d7df1af7a93562c
+1	89	7875667703938891	build.ninja	31447931e5e3fb3b
+1	89	7875667703938891	D:/MyData/Code/my-project/MyOS/build/cmake_install.cmake	31447931e5e3fb3b
+30	219	7875667706288935	bin/os.img	beaa9fa4a9419ec1
+30	219	7875667706288935	D:/MyData/Code/my-project/MyOS/build/bin/os.img	beaa9fa4a9419ec1

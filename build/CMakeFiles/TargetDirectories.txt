@@ -1,0 +1,3 @@
+D:/MyData/Code/my-project/MyOS/build/CMakeFiles/build_os.dir
+D:/MyData/Code/my-project/MyOS/build/CMakeFiles/edit_cache.dir
+D:/MyData/Code/my-project/MyOS/build/CMakeFiles/rebuild_cache.dir
